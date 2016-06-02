@@ -1,0 +1,4 @@
+--growl
+--watch
+--colors
+--compilers js:babel-register

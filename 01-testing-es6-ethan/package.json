@@ -1,0 +1,27 @@
+{
+  "name": "01-testing-es6-ethan",
+  "version": "1.0.0",
+  "description": "01-testing-es6-ethan",
+  "scripts": {
+    "start": "nodemon --exec babel-node src/app.js",
+    "test": "NODE_ENV=test mocha"
+  },
+  "author": "Ethan Jon Czahor",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0"
+  },
+  "devDependencies": {
+    "babel-preset-es2015-node": "^6.0.1",
+    "babel-preset-react": "^6.5.0",
+    "babel-register": "^6.9.0",
+    "chai": "^3.5.0",
+    "enzyme": "^2.3.0",
+    "mocha": "^2.5.3",
+    "nodemon": "^1.9.2",
+    "react-addons-test-utils": "^15.1.0",
+    "supertest": "^1.2.0"
+  }
+}
