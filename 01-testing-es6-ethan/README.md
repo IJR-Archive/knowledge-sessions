@@ -8,6 +8,7 @@ Do an `npm install`, then run the test suite using `npm test` or fire up the ser
 
 ## Resources
 
+- https://github.com/DrkSephy/es6-cheatsheet
 - https://babeljs.io
 - http://es6-features.org
 - https://github.com/airbnb/enzyme
